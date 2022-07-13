@@ -1,0 +1,14 @@
+body{
+    width: 50%;
+    margin: auto;
+   
+    background-color: darkblue;
+    
+}
+.body{
+    margin: 20px;
+    background-color: grey;
+    border: 1px solid grey;
+    font-size: 22px;
+    
+}

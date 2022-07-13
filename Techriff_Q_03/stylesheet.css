@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 20px;
+    font-family:"Open Sans", monospace ;
+    line-height: 30px;
+    background-color: #d7d7d7;
+}
+
+.rover{
+    margin: 5px;
+    color: #333333;
+    font-size: x-large;
+    font-weight: bold;
+    display: inline-block
+}
+.mars{
+    margin: 5px;
+    color: grey;
+    display: inline-block
+
+}
+
+div img{
+    border: 1px solid grey;
+    padding: 10px;
+}
+
+.font a{
+    font-size: 12px;
+    font-weight: bolder;
+}
+a{
+   color: #008AB9;
+}
+a:hover{
+    color: rgb(255, 0, 0);
+}
+a:visited{
+    color: green;
+}
+
+
+.hover:hover{
+    box-shadow: 0 0 0 5px red;
+    transition: 1s ease-out;
+    transform: rotateX(20px);
+    cursor: pointer;
+}

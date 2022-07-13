@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 1000px;
+    height: 200px;
+    background-color:rgb(247, 241, 233);
+    color: rgb(15, 123, 107);
+    font-size: 63px;
+    font-weight: 300px;
+    border: 5px solid rgb(127, 140, 127);
+    margin: 10px 30px 40px 15px;
+    padding: 40px;
+    border-radius: 10px;
+}

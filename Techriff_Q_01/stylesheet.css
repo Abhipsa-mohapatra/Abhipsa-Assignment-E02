@@ -1,0 +1,14 @@
+*{
+    margin: 0;padding: 0;
+}
+
+.content{
+    width: 525px;
+    height: 18.500px;
+    margin: 40px;
+    padding: 20px;
+    border: 3px solid red;
+    background-color: rgb(74, 95, 201);
+    color: aliceblue;
+
+}
